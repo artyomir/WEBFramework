@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pupa",
+      "age": 24
+    },
+    {
+      "name": "Ashot",
+      "age": 25,
+      "id": 2
+    },
+    {
+      "name": "Artyom",
+      "age": 70,
+      "id": 3
+    },
+    {
+      "name": "Ashot",
+      "age": 25,
+      "id": 4
+    },
+    {
+      "name": "dfgsdfg",
+      "age": 25,
+      "id": 5
+    }
+  ]
+}
